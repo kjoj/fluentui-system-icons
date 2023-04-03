@@ -15,7 +15,11 @@
 		"vscode": {
 			"extensions": [
 				"msjsdiag.vscode-react-native",
-				"EditorConfig.EditorConfig"
+				"EditorConfig.EditorConfig",
+				"ms-vscode.cpptools",
+				"ms-vscode.cpptools-extension-pack",
+				"franneck94.c-cpp-runner",
+				"ms-dotnettools.csharp"
 			]
 		}
 	}
